@@ -1,6 +1,6 @@
 # Make it MERCH — propuesta de diseño
 
-Sitio estático rediseñado tomando como referencia la composición editorial del PDF suministrado: navegación lateral compacta, mucho espacio en blanco, divisores finos, secciones numeradas, composición editorial limpia, divisores puntuales y una paleta crema, negro y rojo.
+Sitio estático rediseñado tomando como referencia la composición editorial del PDF suministrado: navegación lateral compacta, mucho espacio en blanco, divisores finos, secciones numeradas, composición editorial limpia, divisores puntuales y una paleta blanca, negra y azul.
 
 ## Archivos
 
@@ -39,9 +39,14 @@ El sitio utiliza **DM Sans** mediante Google Fonts y conserva fallbacks del sist
 ## Dirección visual actualizada
 
 - Tipografía principal: **DM Sans**.
-- Paleta: negro `#001514`, crema `#FFF8F0` y rojo `#C41E3D`.
+- Paleta: negro `#001514`, blanco `#F6F4F5` y azul `#1A59BF`.
 - Escala visual ampliada aproximadamente un 25% frente a la versión anterior.
 - Secciones separadas por una sola línea horizontal principal; se redujeron divisores internos innecesarios.
 - Sin tarjetas redondeadas ni bloques con fondos de color.
-- Jerarquía editorial basada en tipografía, espacio y acentos rojos.
+- Jerarquía editorial basada en tipografía, espacio y acentos azules.
 
+
+
+## Crédito de diseño
+
+Diseño: **Alexander Gabriel**. El crédito aparece de forma discreta en la portada y el footer del sitio.
