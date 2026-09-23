@@ -1,6 +1,6 @@
 # Make it MERCH — propuesta de diseño
 
-Sitio estático rediseñado tomando como referencia la composición editorial del PDF suministrado: navegación lateral compacta, mucho espacio en blanco, divisores finos, secciones numeradas, bloques visuales rectangulares y acento naranja.
+Sitio estático rediseñado tomando como referencia la composición editorial del PDF suministrado: navegación lateral compacta, mucho espacio en blanco, divisores finos, secciones numeradas, composición editorial limpia, divisores puntuales y una paleta crema, negro y rojo.
 
 ## Archivos
 
@@ -19,7 +19,7 @@ Sitio estático rediseñado tomando como referencia la composición editorial de
 
 ## Tipografía
 
-El sitio utiliza **Rethink Sans** mediante Google Fonts y conserva fallbacks del sistema.
+El sitio utiliza **DM Sans** mediante Google Fonts y conserva fallbacks del sistema.
 
 ## Datos comerciales incluidos
 
@@ -38,9 +38,10 @@ El sitio utiliza **Rethink Sans** mediante Google Fonts y conserva fallbacks del
 
 ## Dirección visual actualizada
 
-- Tipografía principal: **Rethink Sans**.
-- Paleta: blanco, negro/grises y azul navy `#0A1F44`.
-- Secciones compactas separadas por líneas horizontales de extremo a extremo.
+- Tipografía principal: **DM Sans**.
+- Paleta: negro `#001514`, crema `#FFF8F0` y rojo `#C41E3D`.
+- Escala visual ampliada aproximadamente un 25% frente a la versión anterior.
+- Secciones separadas por una sola línea horizontal principal; se redujeron divisores internos innecesarios.
 - Sin tarjetas redondeadas ni bloques con fondos de color.
-- Jerarquía editorial basada en tipografía, espacio, líneas y numeración.
+- Jerarquía editorial basada en tipografía, espacio y acentos rojos.
 
