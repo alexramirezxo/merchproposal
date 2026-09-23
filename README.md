@@ -23,9 +23,9 @@ El sitio utiliza **DM Sans** mediante Google Fonts y conserva fallbacks del sist
 
 ## Datos comerciales incluidos
 
-- Inversión total: **€450**
-- Anticipo: **50% — €225**
-- Pago final: **50% — €225**
+- Inversión total: **€525**
+- Anticipo: **50% — €262,50**
+- Pago final: **50% — €262,50**
 - Primera revisión: **4 días después del anticipo**
 - Entrega final: **hasta 7 días desde el inicio**
 - Zelle / efectivo: **1:1 EUR/USD**
@@ -50,3 +50,14 @@ El sitio utiliza **DM Sans** mediante Google Fonts y conserva fallbacks del sist
 ## Crédito de diseño
 
 Diseño: **Alexander Gabriel**. El crédito aparece de forma discreta en la portada y el footer del sitio.
+
+
+## Alcance comercial actualizado
+
+- Gorra: **€200 total** — €100 por el diseño con 4 versiones para 4 marcas + €100 por 4 gorras físicas.
+- Graphic Tee: **€125**.
+- Camisa de botones: **€125**.
+- Express delivery: **€75**.
+- Total: **€525**.
+- Anticipo 50%: **€262,50**.
+- Saldo final 50%: **€262,50**.
