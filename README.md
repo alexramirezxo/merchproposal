@@ -5,7 +5,7 @@ Sitio estático listo para publicar en GitHub Pages.
 ## Archivos
 
 - `index.html` — estructura y contenido.
-- `styles.css` — estilos responsive + versión de impresión/PDF.
+- `styles.css` — estilos responsive.
 - `script.js` — navegación lateral activa durante el scroll.
 
 ## Publicar en GitHub Pages
@@ -17,10 +17,11 @@ Sitio estático listo para publicar en GitHub Pages.
 5. Selecciona la rama `main` y la carpeta `/ (root)`.
 6. Guarda. GitHub te mostrará la URL pública cuando el sitio esté publicado.
 
-## PDF
-
-El botón **Guardar / imprimir PDF** abre la impresión del navegador. La hoja de estilos de impresión escala la página al 70% para generar un PDF más compacto.
-
 ## Tipografía
 
 El sitio usa únicamente **Rethink Sans**, cargada desde Google Fonts.
+
+## Contacto incluido en la propuesta
+
+- Email: alexramirez.contact@gmail.com
+- WhatsApp: +58 412 201 0903
