@@ -35,3 +35,12 @@ El sitio utiliza **Rethink Sans** mediante Google Fonts y conserva fallbacks del
 
 - Email: `alexramirez.contact@gmail.com`
 - WhatsApp: `+58 412 201 0903`
+
+## Dirección visual actualizada
+
+- Tipografía principal: **Rethink Sans**.
+- Paleta: blanco, negro/grises y azul navy `#0A1F44`.
+- Secciones compactas separadas por líneas horizontales de extremo a extremo.
+- Sin tarjetas redondeadas ni bloques con fondos de color.
+- Jerarquía editorial basada en tipografía, espacio, líneas y numeración.
+
